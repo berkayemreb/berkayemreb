@@ -31,4 +31,4 @@
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkayemreb&" alt="berkayemreb" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkayemreb&theme=dark" alt="berkayemreb" /></p>
